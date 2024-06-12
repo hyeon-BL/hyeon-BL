@@ -1,0 +1,25 @@
+{
+  "name": "hyeon-bl",
+  "version": "1.0.0",
+  "description": "![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hyeon's%20Github&fontSize=90)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node readmeUpdate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyeon-BL/hyeon-BL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyeon-BL/hyeon-BL/issues"
+  },
+  "homepage": "https://github.com/hyeon-BL/hyeon-BL#readme",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
