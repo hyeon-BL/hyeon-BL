@@ -20,7 +20,8 @@ const parser = new Parser({
   // 최신 5개의 글의 제목과 링크를 추가할 텍스트 생성
   let latestPosts = "### Latest Blog Posts\n\n";
   for (let i = 0; i < 5 && i < feed.items.length; i++) {
-    const { title, link } = feed.items[i];
+    let { title, link } = feed.items[i]; // const -> let 으로 수정
+    link = link.startsWith('http://') ? 'https://' + link.slice(7) : link; // 추가
     latestPosts += `- [${title}](${link})\n`;
   }
 
