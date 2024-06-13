@@ -33,7 +33,7 @@ jobs:
         run: |
           git config --local user.name 'hyeon-BL'
           git config --local user.email 'lhbj1115@gmail.com'
-          git remote set-url origin https://hyeon-BL:${{ secrets.HB_PERSONAL_TOKEN }}@github.com/hyeon-BL/your-repo.git
+          git remote set-url origin https://hyeon-BL:${{ secrets.HB_PERSONAL_TOKEN }}@github.com/hyeon-BL/hyeon-BL.git
           if [ -n "$(git status --porcelain)" ]; then
             git add README.md
             git commit -m 'Update README with latest blog posts'
