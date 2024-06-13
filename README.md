@@ -18,3 +18,4 @@
 - [[선형대수학] Complex matrix and Schur decomposition](https://hyeonb.blogspot.com/2024/06/complex-matrix-and-schur-decomposition.html)
 - [[자료구조] Text Processing](https://hyeonb.blogspot.com/2024/06/text-processing.html)
 - [[데이터사이언스기초] Dimensionality Reduction](https://hyeonb.blogspot.com/2024/06/dimensionality-reduction.html)
+
