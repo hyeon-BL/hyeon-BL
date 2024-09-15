@@ -11,7 +11,7 @@
 ![hyeon-BL's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon-BL&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon-BL&layout=compact)
 
-### Latest Blog Posts
+### Latest Blog Posts(수정중)
 
 - [[선형대수학] Singular Value Decomposition](https://hyeonb.blogspot.com/2024/06/singular-value-decomposition.html)
 - [[선형대수학] Normal matrix & Spectral decomposition](https://hyeonb.blogspot.com/2024/06/normal-matrix-spectral-decomposition.html)
