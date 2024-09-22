@@ -13,9 +13,9 @@
 
 ### Latest Blog Posts
 
+- [[인공지능개론] What is machine learning?](https://hyeonb.blogspot.com/2024/09/what-is-machine-learning.html)
+- [[인공지능개론] Artificial Intelligence Basics](https://hyeonb.blogspot.com/2024/09/artificial-intelligence-basics.html)
 - [[C++][OOP] Array & Pointer](https://hyeonb.blogspot.com/2024/09/coop-array-pointer.html)
 - [[C++][OOP] Function - reusable, readable](https://hyeonb.blogspot.com/2024/09/coop-function-reusable-readable.html)
 - [[C++][OOP] Flow Control - 조건문, 반복문](https://hyeonb.blogspot.com/2024/09/coop-flow-control.html)
-- [[C++][OOP] Variables & Operators](https://hyeonb.blogspot.com/2024/09/coop-variables-operators.html)
-- [[OOP] 객체지향프로그래밍](https://hyeonb.blogspot.com/2024/09/oop.html)
 
