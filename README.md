@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/him
 
 ![hyeon-BL's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon-BL&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon-BL&layout=compact&hide=JupyterNotebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon-BL&layout=compact&hide=Jupyter&nbspNotebook)
 
 ### Latest Blog Posts
 
