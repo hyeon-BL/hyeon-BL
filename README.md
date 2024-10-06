@@ -13,9 +13,9 @@
 
 ### Latest Blog Posts
 
+- [[인공지능개론] information based learning - Decision tree](https://hyeonb.blogspot.com/2024/10/information-based-learning-decision-tree.html)
+- [[C++][OOP] Array & Pointer - dynamic allocation, reference](https://hyeonb.blogspot.com/2024/10/coop-array-pointer-dynamic-allocation.html)
+- [[알고리즘] Randomized algorithm - quicksort, randomized selection, majority element](https://hyeonb.blogspot.com/2024/10/randomized-algorithm-quicksort.html)
 - [[알고리즘] Linear-Time Sorting](https://hyeonb.blogspot.com/2024/09/linear-time-sorting.html)
 - [[인공지능개론] What is machine learning?](https://hyeonb.blogspot.com/2024/09/what-is-machine-learning.html)
-- [[인공지능개론] Artificial Intelligence Basics](https://hyeonb.blogspot.com/2024/09/artificial-intelligence-basics.html)
-- [[C++][OOP] Array & Pointer](https://hyeonb.blogspot.com/2024/09/coop-array-pointer.html)
-- [[C++][OOP] Function - reusable, readable](https://hyeonb.blogspot.com/2024/09/coop-function-reusable-readable.html)
 
