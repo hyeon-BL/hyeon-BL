@@ -13,9 +13,9 @@
 
 ### Latest Blog Posts
 
-- [[인공지능개론] information based learning - Decision tree](https://hyeonb.blogspot.com/2024/10/information-based-learning-decision-tree.html)
-- [[C++][OOP] Array & Pointer - dynamic allocation, reference](https://hyeonb.blogspot.com/2024/10/coop-array-pointer-dynamic-allocation.html)
-- [[알고리즘] Randomized algorithm - quicksort, randomized selection, majority element](https://hyeonb.blogspot.com/2024/10/randomized-algorithm-quicksort.html)
-- [[알고리즘] Linear-Time Sorting](https://hyeonb.blogspot.com/2024/09/linear-time-sorting.html)
-- [[인공지능개론] What is machine learning?](https://hyeonb.blogspot.com/2024/09/what-is-machine-learning.html)
+- [[C++][OOP] Class - UML diagram, relationship](https://hyeonb.blogspot.com/2024/10/coop-class-uml-diagram-relationship.html)
+- [[C++][OOP] Class - definition, struct, constructor, destructor](https://hyeonb.blogspot.com/2024/10/coop-class-definition-struct.html)
+- [[알고리즘] hash table의 worst case를 극복하는, Self-Balancing Binary Search Tree(Red-Black Tree)](https://hyeonb.blogspot.com/2024/10/hash-table-worst-case-self-balancing.html)
+- [[인공지능개론] probability based learning - Generalized Bayes' Theorem, MAP](https://hyeonb.blogspot.com/2024/10/probability-based-learning-generalized.html)
+- [[인공지능개론] probability based learning - Bayes' theorem](https://hyeonb.blogspot.com/2024/10/probability-based-learning-bayes-theorem.html)
 
