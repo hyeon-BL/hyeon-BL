@@ -18,7 +18,7 @@ I'm a proactive learner with a strong work ethic and a knack for creative proble
 
 
 
-[![Blogger Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://hyeondev.blogspot.com/)
+[![Blogger Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://hyeondev.blogspot.com/)
 ### Latest Blog Posts
 
 - [[C++][OOP] Class - UML diagram, relationship](https://hyeonb.blogspot.com/2024/10/coop-class-uml-diagram-relationship.html)
