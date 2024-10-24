@@ -6,9 +6,9 @@ I'm driven by a desire to make a positive impact on the world. ✨ My fascinatio
 
 Currently, I'm focused on:
 
-Deepening my expertise: Mastering advanced computer vision and AI techniques for autonomous driving applications.
-Building impactful projects: Collaborating on projects that utilize technology to make a difference.
-Launching my startup: Refining my business model and seeking funding opportunities.
+ - **Deepening my expertise**: Mastering advanced computer vision and AI techniques for autonomous driving applications.
+ - **Building impactful projects**: Collaborating on projects that utilize technology to make a difference.
+ - **Launching my startup**: Refining my business model and seeking funding opportunities.
 I'm a proactive learner with a strong work ethic and a knack for creative problem-solving.  I'm always eager to connect with fellow tech enthusiasts and explore new opportunities. Let's create something amazing together!
 
 
