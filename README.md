@@ -22,9 +22,9 @@ I'm a proactive learner with a strong work ethic and a knack for creative proble
 [![Blogger Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://hyeondev.blogspot.com/)
 ### Latest Blog Posts
 
-- [[C++][OOP] Class - UML diagram, relationship](https://hyeonb.blogspot.com/2024/10/coop-class-uml-diagram-relationship.html)
-- [[C++][OOP] Class - definition, struct, constructor, destructor](https://hyeonb.blogspot.com/2024/10/coop-class-definition-struct.html)
-- [[알고리즘] hash table의 worst case를 극복하는, Self-Balancing Binary Search Tree(Red-Black Tree)](https://hyeonb.blogspot.com/2024/10/hash-table-worst-case-self-balancing.html)
-- [[인공지능개론] probability based learning - Generalized Bayes' Theorem, MAP](https://hyeonb.blogspot.com/2024/10/probability-based-learning-generalized.html)
-- [[인공지능개론] probability based learning - Bayes' theorem](https://hyeonb.blogspot.com/2024/10/probability-based-learning-bayes-theorem.html)
+- [[알고리즘] Graph algorithm - Breadth First Search](https://hyeondev.blogspot.com/2024/10/graph-algorithm-breadth-first-search.html)
+- [[알고리즘] Graph algorithm - Depth First Search, Topological ordering](https://hyeondev.blogspot.com/2024/10/graph-algorithm-depth-first-search.html)
+- [[C++][OOP] Class 심화 - Shallow copy vs deep copy, inline/static/const/friend](https://hyeondev.blogspot.com/2024/10/coop-class-shallow-copy-vs-deep-copy.html)
+- [[인공지능개론] probability based learning - Conditional independence, Factorization](https://hyeondev.blogspot.com/2024/10/probability-based-learning-conditional.html)
+- [[C++][OOP] Class - UML diagram, relationship](https://hyeondev.blogspot.com/2024/10/coop-class-uml-diagram-relationship.html)
 
