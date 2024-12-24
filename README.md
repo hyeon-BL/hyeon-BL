@@ -14,7 +14,7 @@ I'm a proactive learner with a strong work ethic and a knack for creative proble
 
 
 ![hyeon-BL's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon-BL&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon-BL&layout=compact&hide=Jupyter%20Notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon-BL&layout=compact&hide=Jupyter%20Notebook,CMake)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lhbj1115)](https://solved.ac/lhbj1115)
 
 
