@@ -1,4 +1,5 @@
 <!-- introduction -->
+<br />
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Welcom+to+my+repo!&center=true&font=Righteous&size=50">
