@@ -78,9 +78,9 @@ I'm a proactive learner with a strong work ethic and a knack for creative proble
 [![Blogger Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://hyeondev.blogspot.com/)
 ### Latest Blog Posts
 
-- [[컴퓨터비전개론] Spatial Filtering - Smoothing filter(average, gaussian, median), Sharpening filter(sobel, laplacian)](https://hyeondev.blogspot.com/2025/04/spatial-filtering-smoothing.html)
-- [[컴퓨터비전개론] Digital Image Fundamentals & Contrast Enhancement](https://hyeondev.blogspot.com/2025/04/digital-image-fundamentals-contrast.html)
-- [[Research] Autonomous Vehicle project(GPS & Computer Vision) - step2. Training & Testing model](https://hyeondev.blogspot.com/2025/01/research-autonomous-vehicle-projectgps_24.html)
-- [[Research] Autonomous Vehicle project(GPS & Computer Vision) - step1. Creating datasets](https://hyeondev.blogspot.com/2025/01/research-autonomous-vehicle-projectgps.html)
-- [[Research] Automated Driving with RGB Camera in Carla](https://hyeondev.blogspot.com/2025/01/research-automated-driving-with-rgb.html)
+- [[Linux] Basic commands, Stdin & Stdout, Redirection, Pipe](https://hyeondev.blogspot.com/2025/04/linux-basic-commands-stdin-stdout.html)
+- [[시스템프로그래밍] Memory Hierachy - RAM / Disk mechanism, Locality, Caching](https://hyeondev.blogspot.com/2025/04/memory-hierachy-ram-disk-mechanism.html)
+- [[시스템프로그래밍] Machine-Level Program Running - Macine Language, Calling Functions](https://hyeondev.blogspot.com/2025/04/machine-level-program-running-macine.html)
+- [[시스템프로그래밍] Data Representation - Boolean Algebra, Integer Representation](https://hyeondev.blogspot.com/2025/04/data-representation-boolean-algebra.html)
+- [[시스템프로그래밍] Data Representation - number, data storing, data types, byte ordering](https://hyeondev.blogspot.com/2025/04/data-representation-number-data-storing.html)
 
