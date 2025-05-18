@@ -78,9 +78,9 @@ I'm a proactive learner with a strong work ethic and a knack for creative proble
 [![Blogger Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://hyeondev.blogspot.com/)
 ### Latest Blog Posts
 
+- [[기계학습개론] Supervised learning technique - Decision tree & Ensemble](https://hyeondev.blogspot.com/2025/05/supervised-learning-technique-decision.html)
+- [[기계학습개론] Supervised learning technique - Support Vector Machine](https://hyeondev.blogspot.com/2025/05/supervised-learning-technique-support.html)
+- [[Research] Nvidia Jetson Nano 비활성화된 모니터 연결 다시 활성화하기](https://hyeondev.blogspot.com/2025/05/research-nvidia-jetson-nano_11.html)
+- [[Research] Nvidia Jetson Nano 시리얼 통신](https://hyeondev.blogspot.com/2025/05/research-nvidia-jetson-nano.html)
 - [[LLM] GPT 100% 활용하기: Function Calling 가이드](https://hyeondev.blogspot.com/2025/05/llm-gpt-100-function-calling.html)
-- [[컴퓨터비전개론] Object Recognition - Bayes' classifier](https://hyeondev.blogspot.com/2025/04/object-recognition-bayes-classifier.html)
-- [[LLM] GPT 100% 활용하기: Prompt Engineering 가이드](https://hyeondev.blogspot.com/2025/04/llm-gpt-100-prompt-engineering.html)
-- [[Linux] Basic commands, Stdin & Stdout, Redirection, Pipe](https://hyeondev.blogspot.com/2025/04/linux-basic-commands-stdin-stdout.html)
-- [[시스템프로그래밍] Memory Hierachy - RAM / Disk mechanism, Locality, Caching](https://hyeondev.blogspot.com/2025/04/memory-hierachy-ram-disk-mechanism.html)
 
