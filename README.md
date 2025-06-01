@@ -78,9 +78,9 @@ I'm a proactive learner with a strong work ethic and a knack for creative proble
 [![Blogger Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://hyeondev.blogspot.com/)
 ### Latest Blog Posts
 
-- [[기계학습개론] Dimensionality Reduction - PCA, Kernel PCA, Auto-Encoder](https://hyeondev.blogspot.com/2025/05/dimensionality-reduction-pca-kernel-pca.html)
-- [[기계학습개론] Unsupervised learning technique - Clustering methods(Hierarchical clustering, K-means clustering, Gaussian Mixture Model, Spectral clustering)](https://hyeondev.blogspot.com/2025/05/unsupervised-learning-technique.html)
-- [[기계학습개론] Supervised learning technique - Decision tree & Ensemble](https://hyeondev.blogspot.com/2025/05/supervised-learning-technique-decision.html)
-- [[기계학습개론] Supervised learning technique - Support Vector Machine](https://hyeondev.blogspot.com/2025/05/supervised-learning-technique-support.html)
-- [[Research] Nvidia Jetson Nano 비활성화된 모니터 연결 다시 활성화하기](https://hyeondev.blogspot.com/2025/05/research-nvidia-jetson-nano_11.html)
+- [[컴퓨터비전개론] Overview of 3D Computer Vision - Homogeneous Transformation Matrix (HTM)](https://hyeondev.blogspot.com/2025/05/overview-of-3d-computer-vision.html)
+- [[컴퓨터비전개론] Convolutional Neural Network (CNN)](https://hyeondev.blogspot.com/2025/05/convolutional-neural-network-cnn.html)
+- [[컴퓨터비전개론] Object Recognition - Template Matching, Fourier Descriptor](https://hyeondev.blogspot.com/2025/05/object-recognition-template-matching.html)
+- [[기계학습개론] Semi-Supervised Learning (SSL) - Self-training / Generative Model based / Margin based / Graph based](https://hyeondev.blogspot.com/2025/05/semi-supervised-learning-ssl-self.html)
+- [[기계학습개론] Collaborative Filtering (CF) - KNN vs Matrix Factorization ](https://hyeondev.blogspot.com/2025/05/collaborative-filtering-cf-knn-vs.html)
 
