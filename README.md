@@ -78,9 +78,9 @@ I'm a proactive learner with a strong work ethic and a knack for creative proble
 [![Blogger Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://hyeondev.blogspot.com/)
 ### Latest Blog Posts
 
-- [[컴퓨터비전개론] Overview of 3D Computer Vision - Homogeneous Transformation Matrix (HTM)](https://hyeondev.blogspot.com/2025/05/overview-of-3d-computer-vision.html)
-- [[컴퓨터비전개론] Convolutional Neural Network (CNN)](https://hyeondev.blogspot.com/2025/05/convolutional-neural-network-cnn.html)
-- [[컴퓨터비전개론] Object Recognition - Template Matching, Fourier Descriptor](https://hyeondev.blogspot.com/2025/05/object-recognition-template-matching.html)
-- [[기계학습개론] Semi-Supervised Learning (SSL) - Self-training / Generative Model based / Margin based / Graph based](https://hyeondev.blogspot.com/2025/05/semi-supervised-learning-ssl-self.html)
-- [[기계학습개론] Collaborative Filtering (CF) - KNN vs Matrix Factorization ](https://hyeondev.blogspot.com/2025/05/collaborative-filtering-cf-knn-vs.html)
+- [[컴퓨터비전개론] Augmented Reality(AR) - Hand Eye Calibration](https://hyeondev.blogspot.com/2025/06/augmented-realityar-hand-eye-calibration.html)
+- [[컴퓨터비전개론] How to find HTM - 3D Space Registration method(Paired-Point Registration, Iterative Closest Point)](https://hyeondev.blogspot.com/2025/06/how-to-find-htm-3d-space-registration.html)
+- [[컴퓨터비전개론] Camera Calibration - Intrinsic & Extrinsic Parameters, Homography](https://hyeondev.blogspot.com/2025/06/camera-calibration-intrinsic-extrinsic.html)
+- [[기계학습개론] Reinforcement Learning - Q Learning, Q Table](https://hyeondev.blogspot.com/2025/06/reinforcement-learning-q-learning-q.html)
+- [[기계학습개론] Sequential Learning - Hidden Markov Model(Viterbi, Forward-Backward, Baum-Welch algorithm)](https://hyeondev.blogspot.com/2025/06/sequential-learning-hidden-markov.html)
 
