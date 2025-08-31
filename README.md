@@ -78,9 +78,9 @@ I'm a proactive learner with a strong work ethic and a knack for creative proble
 [![Blogger Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://hyeondev.blogspot.com/)
 ### Latest Blog Posts
 
+- [[알고리즘] Union-Find | 서로소 집합(Disjoint Set)의 개념부터 최적화까지](https://hyeondev.blogspot.com/2025/08/union-find-disjoint-set.html)
+- [[컴퓨터 네트워크] 데이터 통신의 기본 요소와 TCP/IP 5계층](https://hyeondev.blogspot.com/2025/08/tcpip-5.html)
 - [[Research] Nvidia Jetson에서 PyTorch 호환성 문제 해결](https://hyeondev.blogspot.com/2025/07/research-nvidia-jetson-pytorch.html)
 - [[컴퓨터비전개론] Augmented Reality(AR) - Hand Eye Calibration](https://hyeondev.blogspot.com/2025/06/augmented-realityar-hand-eye-calibration.html)
 - [[컴퓨터비전개론] How to find HTM - 3D Space Registration method(Paired-Point Registration, Iterative Closest Point)](https://hyeondev.blogspot.com/2025/06/how-to-find-htm-3d-space-registration.html)
-- [[컴퓨터비전개론] Camera Calibration - Intrinsic & Extrinsic Parameters, Homography](https://hyeondev.blogspot.com/2025/06/camera-calibration-intrinsic-extrinsic.html)
-- [[기계학습개론] Reinforcement Learning - Q Learning, Q Table](https://hyeondev.blogspot.com/2025/06/reinforcement-learning-q-learning-q.html)
 
