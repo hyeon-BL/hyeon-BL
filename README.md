@@ -78,9 +78,9 @@ I'm a proactive learner with a strong work ethic and a knack for creative proble
 [![Blogger Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://hyeondev.blogspot.com/)
 ### Latest Blog Posts
 
-- [[개념정리] 운영체제 | Concurrency를 이해하기 위한 빌드업, 프로세스와 스레드](https://hyeondev.blogspot.com/2025/10/concurrency.html)
-- [[운영체제] CPU 스케줄링 심화 | Proportional Share Scheduler 와 CFS, EEVDF](https://hyeondev.blogspot.com/2025/09/cpu-proportional-share-scheduler-cfs.html)
-- [[운영체제] CPU 스케줄링 | FIFO에서 MLFQ까지, 스케줄링 정책의 발전과정 정리](https://hyeondev.blogspot.com/2025/09/cpu-fifo-mlfq.html)
-- [   [컴퓨터 네트워크] Physical Layer | 데이터 전송 속도의 한계, 아날로그의 디지털화 & 디지털의 아날로그화](https://hyeondev.blogspot.com/2025/09/physical-layer.html)
-- [[운영체제] CPU 가상화 | Logical Control Flow에서 Context Switch까지](https://hyeondev.blogspot.com/2025/09/cpu-logical-control-flow-context-switch.html)
+- [ [컴퓨터 네트워크] LAN | 이더넷(Ethernet), 와이파이(Wifi), 블루투스(Bluetooth)의 구조와 동작 원리](https://hyeondev.blogspot.com/2025/10/lan-ethernet-wifi-bluetooth.html)
+- [[운영체제] DeadLock | 멀티 스레딩 환경에서 발생하는 문제](https://hyeondev.blogspot.com/2025/10/deadlock.html)
+- [[운영체제] 고급 동기화 메커니즘 | Condition Variable과 Semaphore](https://hyeondev.blogspot.com/2025/10/condition-variable-semaphore.html)
+- [[운영체제] Lock | 단순 Mutual Exclusion을 위한 Test-And-Set부터 성능까지 챙긴 Futex까지](https://hyeondev.blogspot.com/2025/10/lock-mutual-exclusion-test-and-set-futex.html)
+- [[컴퓨터 네트워크] Data-link layer | Frameing, Error Control methods, MAC Protocols](https://hyeondev.blogspot.com/2025/10/data-link-layer-frameing-error-control.html)
 
