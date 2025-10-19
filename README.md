@@ -78,9 +78,9 @@ I'm a proactive learner with a strong work ethic and a knack for creative proble
 [![Blogger Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://hyeondev.blogspot.com/)
 ### Latest Blog Posts
 
+- [[운영체제] Operating System 전체 포스팅 모음집](https://hyeondev.blogspot.com/2025/10/operating-system.html)
 - [ [컴퓨터 네트워크] LAN | 이더넷(Ethernet), 와이파이(Wifi), 블루투스(Bluetooth)의 구조와 동작 원리](https://hyeondev.blogspot.com/2025/10/lan-ethernet-wifi-bluetooth.html)
 - [[운영체제] DeadLock | 멀티 스레딩 환경에서 발생하는 문제](https://hyeondev.blogspot.com/2025/10/deadlock.html)
 - [[운영체제] 고급 동기화 메커니즘 | Condition Variable과 Semaphore](https://hyeondev.blogspot.com/2025/10/condition-variable-semaphore.html)
 - [[운영체제] Lock | 단순 Mutual Exclusion을 위한 Test-And-Set부터 성능까지 챙긴 Futex까지](https://hyeondev.blogspot.com/2025/10/lock-mutual-exclusion-test-and-set-futex.html)
-- [[컴퓨터 네트워크] Data-link layer | Frameing, Error Control methods, MAC Protocols](https://hyeondev.blogspot.com/2025/10/data-link-layer-frameing-error-control.html)
 
