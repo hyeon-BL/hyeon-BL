@@ -78,9 +78,9 @@ I'm a proactive learner with a strong work ethic and a knack for creative proble
 [![Blogger Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://hyeondev.blogspot.com/)
 ### Latest Blog Posts
 
+- [[운영체제] 세그멘테이션(Segmentation) | Segment, External Fragmentation, Free Space management](https://hyeondev.blogspot.com/2025/11/segmentation-segment-external.html)
+- [[운영체제] 가상 메모리(Virtual Memory) | 운영체제는 어떻게 프로세스에게 독점 공간을 제공할까?](https://hyeondev.blogspot.com/2025/11/virtual-memory.html)
+- [[컴퓨터네트워크] Network Layer: Routing of Packets | Distance Vector, Link State, Path Vector](https://hyeondev.blogspot.com/2025/11/network-layer-routing-of-packets.html)
+- [[컴퓨터네트워크] Network Layer: Data transfer | IPv4 datagram, Fragmentation, ICMP, Mobile IP, IPv6](https://hyeondev.blogspot.com/2025/11/network-layer-data-transfer-ipv4.html)
 - [[컴퓨터네트워크] WAN | Cellular System, Satellite Networks](https://hyeondev.blogspot.com/2025/11/wan-cellular-system-satellite-networks.html)
-- [[Firebase] 왜 스타트업의 빠른 프로토타이핑에 'BaaS'가 필수일까?](https://hyeondev.blogspot.com/2025/11/firebase-baas.html)
-- [[운영체제] Operating System 전체 포스팅 모음집](https://hyeondev.blogspot.com/2025/10/operating-system.html)
-- [ [컴퓨터 네트워크] LAN | 이더넷(Ethernet), 와이파이(Wifi), 블루투스(Bluetooth)의 구조와 동작 원리](https://hyeondev.blogspot.com/2025/10/lan-ethernet-wifi-bluetooth.html)
-- [[운영체제] DeadLock | 멀티 스레딩 환경에서 발생하는 문제](https://hyeondev.blogspot.com/2025/10/deadlock.html)
 
