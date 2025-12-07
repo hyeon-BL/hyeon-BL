@@ -78,9 +78,9 @@ I'm a proactive learner with a strong work ethic and a knack for creative proble
 [![Blogger Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://hyeondev.blogspot.com/)
 ### Latest Blog Posts
 
-- [[운영체제] 세그멘테이션(Segmentation) | Segment, External Fragmentation, Free Space management](https://hyeondev.blogspot.com/2025/11/segmentation-segment-external.html)
-- [[운영체제] 가상 메모리(Virtual Memory) | 운영체제는 어떻게 프로세스에게 독점 공간을 제공할까?](https://hyeondev.blogspot.com/2025/11/virtual-memory.html)
-- [[컴퓨터네트워크] Network Layer: Routing of Packets | Distance Vector, Link State, Path Vector](https://hyeondev.blogspot.com/2025/11/network-layer-routing-of-packets.html)
-- [[컴퓨터네트워크] Network Layer: Data transfer | IPv4 datagram, Fragmentation, ICMP, Mobile IP, IPv6](https://hyeondev.blogspot.com/2025/11/network-layer-data-transfer-ipv4.html)
-- [[컴퓨터네트워크] WAN | Cellular System, Satellite Networks](https://hyeondev.blogspot.com/2025/11/wan-cellular-system-satellite-networks.html)
+- [[컴퓨터네트워크] Application Layer | HTTP & WWW, SMTP & Email, DNS](https://hyeondev.blogspot.com/2025/12/application-layer-http-www-smtp-email.html)
+- [[컴퓨터네트워크] Transport Layer | UDP, TCP, Flow/Error/Congestion Control](https://hyeondev.blogspot.com/2025/12/transport-layer-udp-tcp.html)
+- [[운영체제] Log-structured File System (LFS) | 디스크의 물리적 한계를 극복하는 순차 쓰기 전략](https://hyeondev.blogspot.com/2025/12/log-structured-file-system-lfs.html)
+- [[운영체제] 파일 시스템의 영속성(Persistence) | Crash Consistency, FSCK, Journaling](https://hyeondev.blogspot.com/2025/12/persistence-crash-consistency-fsck.html)
+- [[운영체제] Fast File System (FFS) | 디스크의 물리적 구조를 고려한 성능 최적화](https://hyeondev.blogspot.com/2025/12/fast-file-system-ffs.html)
 
